@@ -43,7 +43,6 @@ namespace SenshiNoTabi
         }
 
 
-        //public static int PickAttack(string name) {}
 
 
     }

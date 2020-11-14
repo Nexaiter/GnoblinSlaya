@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Inne\\Kod\\C#\\SenshiNoTabi\\SenshiNoTabi\\SenshiNoTabi.csproj": {}
+    "D:\\Programy\\GitDesktop\\GnoblinSlaya\\SenshiNoTabi\\SenshiNoTabi\\SenshiNoTabi.csproj": {}
   },
   "projects": {
-    "D:\\Inne\\Kod\\C#\\SenshiNoTabi\\SenshiNoTabi\\SenshiNoTabi.csproj": {
+    "D:\\Programy\\GitDesktop\\GnoblinSlaya\\SenshiNoTabi\\SenshiNoTabi\\SenshiNoTabi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Inne\\Kod\\C#\\SenshiNoTabi\\SenshiNoTabi\\SenshiNoTabi.csproj",
+        "projectUniqueName": "D:\\Programy\\GitDesktop\\GnoblinSlaya\\SenshiNoTabi\\SenshiNoTabi\\SenshiNoTabi.csproj",
         "projectName": "SenshiNoTabi",
-        "projectPath": "D:\\Inne\\Kod\\C#\\SenshiNoTabi\\SenshiNoTabi\\SenshiNoTabi.csproj",
+        "projectPath": "D:\\Programy\\GitDesktop\\GnoblinSlaya\\SenshiNoTabi\\SenshiNoTabi\\SenshiNoTabi.csproj",
         "packagesPath": "C:\\Users\\Mateusz\\.nuget\\packages\\",
-        "outputPath": "D:\\Inne\\Kod\\C#\\SenshiNoTabi\\SenshiNoTabi\\obj\\",
+        "outputPath": "D:\\Programy\\GitDesktop\\GnoblinSlaya\\SenshiNoTabi\\SenshiNoTabi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
