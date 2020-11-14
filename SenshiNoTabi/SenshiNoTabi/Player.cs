@@ -6,8 +6,7 @@ namespace SenshiNoTabi
 {
      public class Player : Creature
     {
-        public Player(string name, int attack, int defense, int health, int speed) : base(name, attack, defense, health,
-            speed)
+        public Player(string name, int strength, int endurance, int health, int speed, int characterLevel) : base(name, strength, endurance, health, speed, characterLevel)
         {
 
         }

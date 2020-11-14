@@ -7,22 +7,35 @@ namespace SenshiNoTabi
 {
     public static class Game
     {
-        public static void Fight(Player player, Enemy enemy)
+        public static void Fight(Player player, Monster enemy, Weapon playerWeapon, Weapon enemyWeapon, Armor playerArmor, Armor enemyArmor)
         {
+            int damage;
             while (player.Health > 0 && enemy.Health > 0)
             {
-                if (player.Speed > enemy.Speed)
+                if (player.Initiative(playerWeapon, playerArmor) >= enemy.Initiative(enemyWeapon, enemyArmor))
                 {
-                    enemy.DamageTaken(player.Hit(player.Name, player.Attack, enemy.Defense, enemy.DamageAfterDefense(player.Attack)), enemy.Name);
-                    player.DamageTaken(enemy.Hit(enemy.Name, enemy.Attack, player.Defense, player.DamageAfterDefense(enemy.Attack)), player.Name);
+                    damage = player.BasicAttack(enemy, enemyArmor, playerWeapon, enemy.LevelDifference(player.CharacterLevel));
+                    Console.WriteLine($"{player.Name} has dealt {damage} damage.");
+                    enemy.Health -= damage;
+                    Console.WriteLine($"{enemy.Name} is left with {enemy.Health} health.");
+                    damage = enemy.BasicAttack(player, playerArmor, enemyWeapon, player.LevelDifference(enemy.CharacterLevel));
+                    Console.WriteLine($"{enemy.Name} has dealt {damage} damage.");
+                    player.Health -= damage;
+                    Console.WriteLine($"{player.Name} is left with {player.Health} health.");
                 }
-                else
+                if (player.Initiative(playerWeapon, playerArmor) < enemy.Initiative(enemyWeapon, enemyArmor))
                 {
-                    player.DamageTaken(enemy.Hit(enemy.Name, enemy.Attack, player.Defense, player.DamageAfterDefense(enemy.Attack)), player.Name);
-                    enemy.DamageTaken(player.Hit(player.Name, player.Attack, enemy.Defense, enemy.DamageAfterDefense(player.Attack)), enemy.Name);
+                    damage = enemy.BasicAttack(player, playerArmor, enemyWeapon, player.LevelDifference(enemy.CharacterLevel));
+                    Console.WriteLine($"{enemy.Name} has dealt {damage} damage.");
+                    player.Health -= damage;
+                    Console.WriteLine($"{player.Name} is left with {player.Health} health.");
+                    damage = player.BasicAttack(enemy, enemyArmor, playerWeapon, enemy.LevelDifference(player.CharacterLevel));
+                    Console.WriteLine($"{player.Name} has dealt {damage} damage.");
+                    enemy.Health -= damage;
+                    Console.WriteLine($"{enemy.Name} is left with {enemy.Health} health.");
                 }
 
-                Console.ReadKey();
+
             }
         }
 

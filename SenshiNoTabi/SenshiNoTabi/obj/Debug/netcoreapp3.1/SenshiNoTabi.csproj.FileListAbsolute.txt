@@ -11,3 +11,16 @@ D:\repos\SenshiNoTabi\SenshiNoTabi\obj\Debug\netcoreapp3.1\SenshiNoTabi.csproj.C
 D:\repos\SenshiNoTabi\SenshiNoTabi\obj\Debug\netcoreapp3.1\SenshiNoTabi.dll
 D:\repos\SenshiNoTabi\SenshiNoTabi\obj\Debug\netcoreapp3.1\SenshiNoTabi.pdb
 D:\repos\SenshiNoTabi\SenshiNoTabi\obj\Debug\netcoreapp3.1\SenshiNoTabi.genruntimeconfig.cache
+D:\Programy\GitDesktop\GnoblinSlaya\SenshiNoTabi\SenshiNoTabi\bin\Debug\netcoreapp3.1\SenshiNoTabi.exe
+D:\Programy\GitDesktop\GnoblinSlaya\SenshiNoTabi\SenshiNoTabi\bin\Debug\netcoreapp3.1\SenshiNoTabi.deps.json
+D:\Programy\GitDesktop\GnoblinSlaya\SenshiNoTabi\SenshiNoTabi\bin\Debug\netcoreapp3.1\SenshiNoTabi.runtimeconfig.json
+D:\Programy\GitDesktop\GnoblinSlaya\SenshiNoTabi\SenshiNoTabi\bin\Debug\netcoreapp3.1\SenshiNoTabi.runtimeconfig.dev.json
+D:\Programy\GitDesktop\GnoblinSlaya\SenshiNoTabi\SenshiNoTabi\bin\Debug\netcoreapp3.1\SenshiNoTabi.dll
+D:\Programy\GitDesktop\GnoblinSlaya\SenshiNoTabi\SenshiNoTabi\bin\Debug\netcoreapp3.1\SenshiNoTabi.pdb
+D:\Programy\GitDesktop\GnoblinSlaya\SenshiNoTabi\SenshiNoTabi\obj\Debug\netcoreapp3.1\SenshiNoTabi.csprojAssemblyReference.cache
+D:\Programy\GitDesktop\GnoblinSlaya\SenshiNoTabi\SenshiNoTabi\obj\Debug\netcoreapp3.1\SenshiNoTabi.AssemblyInfoInputs.cache
+D:\Programy\GitDesktop\GnoblinSlaya\SenshiNoTabi\SenshiNoTabi\obj\Debug\netcoreapp3.1\SenshiNoTabi.AssemblyInfo.cs
+D:\Programy\GitDesktop\GnoblinSlaya\SenshiNoTabi\SenshiNoTabi\obj\Debug\netcoreapp3.1\SenshiNoTabi.csproj.CoreCompileInputs.cache
+D:\Programy\GitDesktop\GnoblinSlaya\SenshiNoTabi\SenshiNoTabi\obj\Debug\netcoreapp3.1\SenshiNoTabi.dll
+D:\Programy\GitDesktop\GnoblinSlaya\SenshiNoTabi\SenshiNoTabi\obj\Debug\netcoreapp3.1\SenshiNoTabi.pdb
+D:\Programy\GitDesktop\GnoblinSlaya\SenshiNoTabi\SenshiNoTabi\obj\Debug\netcoreapp3.1\SenshiNoTabi.genruntimeconfig.cache
