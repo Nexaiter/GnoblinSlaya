@@ -1,0 +1,13 @@
+D:\repos\SenshiNoTabi\SenshiNoTabi\bin\Debug\netcoreapp3.1\SenshiNoTabi.exe
+D:\repos\SenshiNoTabi\SenshiNoTabi\bin\Debug\netcoreapp3.1\SenshiNoTabi.deps.json
+D:\repos\SenshiNoTabi\SenshiNoTabi\bin\Debug\netcoreapp3.1\SenshiNoTabi.runtimeconfig.json
+D:\repos\SenshiNoTabi\SenshiNoTabi\bin\Debug\netcoreapp3.1\SenshiNoTabi.runtimeconfig.dev.json
+D:\repos\SenshiNoTabi\SenshiNoTabi\bin\Debug\netcoreapp3.1\SenshiNoTabi.dll
+D:\repos\SenshiNoTabi\SenshiNoTabi\bin\Debug\netcoreapp3.1\SenshiNoTabi.pdb
+D:\repos\SenshiNoTabi\SenshiNoTabi\obj\Debug\netcoreapp3.1\SenshiNoTabi.csprojAssemblyReference.cache
+D:\repos\SenshiNoTabi\SenshiNoTabi\obj\Debug\netcoreapp3.1\SenshiNoTabi.AssemblyInfoInputs.cache
+D:\repos\SenshiNoTabi\SenshiNoTabi\obj\Debug\netcoreapp3.1\SenshiNoTabi.AssemblyInfo.cs
+D:\repos\SenshiNoTabi\SenshiNoTabi\obj\Debug\netcoreapp3.1\SenshiNoTabi.csproj.CoreCompileInputs.cache
+D:\repos\SenshiNoTabi\SenshiNoTabi\obj\Debug\netcoreapp3.1\SenshiNoTabi.dll
+D:\repos\SenshiNoTabi\SenshiNoTabi\obj\Debug\netcoreapp3.1\SenshiNoTabi.pdb
+D:\repos\SenshiNoTabi\SenshiNoTabi\obj\Debug\netcoreapp3.1\SenshiNoTabi.genruntimeconfig.cache
